@@ -1,0 +1,5 @@
+#START
+#STRANDARD-FEATURE-A
+    - ADD
+    - EDIT
+    - DELETE
