@@ -1,7 +1,5 @@
 #START
 #STRANDARD-FEATURE-B
     - ADD
-    - EDIT
-    - DELETE
     - SEARCH
     - FILETER
