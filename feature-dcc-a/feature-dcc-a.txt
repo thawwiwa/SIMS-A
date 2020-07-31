@@ -1,0 +1,7 @@
+#START
+#FEATURE-DCC-A
+    - ADD
+    - EDIT
+    - DELETE
+    - DISPLAY IMAGE
+    - SHOW MENULIST
